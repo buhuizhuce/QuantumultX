@@ -5,9 +5,7 @@
     "5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png,enabled=true",
     "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jdlottery.png, enabled=true",
     "11 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true"
-    # BoxJs备份
-    "6 0 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js"
-    # BoxJs恢复
-    "0 10 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js"
+    "6 0 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js, tag=BoxJs备份, enabled=true"
+    "0 10 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js, tag=BoxJs备份, enabled=true"
   ]
 }
