@@ -3,7 +3,7 @@
  "description": "自用task整理",
  "task": [
     "5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png,enabled=true",
-    "6 0 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js, tag=BoxJs备份, enabled=true",
-    "0 1 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js, tag=BoxJs恢复, enabled=true"
+    "6 0 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js, tag=BoxJs备份, enabled=true"
+    "30 0 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js, tag=BoxJs恢复, enabled=true"
   ]
 }
